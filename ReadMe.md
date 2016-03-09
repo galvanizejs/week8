@@ -5,6 +5,9 @@
 
 ## Presentations
 #### Present your projects, no time limit, explain a piece of your code.
+How did your project evolve since inception?
+What was the most challenging pieces?
+How would you like to take this further? What's the next step?
 
 ![Done](images/done.gif)
 
