@@ -2,7 +2,6 @@
 
 - Present projects
 - Answer any lingering questions
-- Javascript Game Battles?
 
 ## Presentations
 #### Present your projects, no time limit, explain a piece of your code.
@@ -12,6 +11,9 @@
 ## Resources for Continuing Education
 [Eloquent Javascript](http://eloquentjavascript.net/)<br>
 This is a great free resource with working examples and problems. There is a live console in the text as you read that allows you to manipulate code and write your own.
+<br><br>
+[A Smarter Way to Learn Javascript](http://www.cpp.edu/~jcmcgarvey/513_2016/ASmarterWaytoLearnJavaScript.pdf/)<br>
+Read for 10 minutes, code for 20 minutes.
 <br><br>
 [JSbooks](http://jsbooks.revolunet.com/)<br>
 Tons of FREE books categorized from beginner to advanced.
