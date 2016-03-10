@@ -5,11 +5,11 @@
 
 ## Presentations
 #### Present your projects, no time limit, explain a piece of your code.
-How did your project evolve since inception?
-What was the most challenging pieces?
-How would you like to take this further? What's the next step?
+How did your project evolve since inception?<br>
+What was the most challenging piece?<br>
+How would you like to take this further? What's the next step?<br>
 
-![Done](images/done.gif)
+![Done](images/welp.gif)
 
 ## Resources for Continuing Education
 [Eloquent Javascript](http://eloquentjavascript.net/)<br>
