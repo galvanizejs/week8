@@ -1,5 +1,7 @@
 # Final Day of Class
 
+![Done](images/welp.gif)
+
 - Present projects
 - Answer any lingering questions
 
@@ -8,8 +10,6 @@
 How did your project evolve since inception?<br>
 What was the most challenging piece?<br>
 How would you like to take this further? What's the next step?<br>
-
-![Done](images/welp.gif)
 
 ## Resources for Continuing Education
 [Eloquent Javascript](http://eloquentjavascript.net/)<br>
